@@ -12,3 +12,9 @@ My name is Alex.
 [![MySQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white)](https://github.com/SpikedPaladin)
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=GNU%20Bash&logoColor=white)](https://github.com/SpikedPaladin)
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://github.com/SpikedPaladin)
+
+<p align="center">
+  <a href="https://github.com/SpikedPaladin">
+    <img src="https://komarev.com/ghpvc/?username=SpikedPaladin&color=blue&style=flat"/>
+  </a>
+</p>
