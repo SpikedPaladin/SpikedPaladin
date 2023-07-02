@@ -1,7 +1,7 @@
 <h1> Hey <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> What's up?</h1>
 
 My name is Alex.  
-🔭 Currently working on [TelegramGLib](https://github.com/SpikedPaladin/TelegramGLib) and [GtkFlowGraph](https://github.com/SpikedPaladin/GtkFlowGraph)
+🔭 Currently working on [TelegramGLib](https://github.com/SpikedPaladin/TelegramGLib) and [libflow](https://github.com/SpikedPaladin/libflow)
 
 ## Languages
 [![Vala](https://img.shields.io/badge/Vala-A56DE2?logo=vala)](https://vala.dev/)
